@@ -24,9 +24,7 @@
 
 <br/>
 
-> :bulb: About Me: I am a Lead Full-Stack Engineer and AI Automation Specialist focused on designing scalable, intelligent systems that streamline workflows and drive business growth. My core expertise spans PHP, Laravel, Python, Vue.js, and Node.js, where I prioritize clean architecture, high performance, and seamless user experiences.
-
-Currently, I specialize in building AI-powered automation systems using tools like n8n, Zapier, and GoHighLevel (GHL)—helping businesses reduce manual effort, optimize operations, and make data-driven decisions. I also lead end-to-end project execution, delivering revenue-focused solutions that improve engagement, automate customer journeys, and maximize ROI..
+> :bulb: About Me: I am a Lead Full-Stack Engineer and AI Automation Specialist focused on designing scalable, intelligent systems that streamline workflows and drive business growth. My core expertise spans PHP, Laravel, Python, Vue.js, and Node.js, where I prioritize clean architecture, high performance, and seamless user experiences. <br/> Currently, I specialize in building AI-powered automation systems using tools like n8n, Zapier, and GoHighLevel (GHL)—helping businesses reduce manual effort, optimize operations, and make data-driven decisions. I also lead end-to-end project execution, delivering revenue-focused solutions that improve engagement, automate customer journeys, and maximize ROI..
 
 <br/>
 <details open>
