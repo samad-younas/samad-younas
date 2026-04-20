@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://github.com/samad-younas">
-    <img src="https://github.com/samad-younas.png" width="160" height="160" alt="Muhammad Nauman" />
+    <img src="https://github.com/samad-younas.png" width="160" height="160" alt="Muhammad Samad" />
   </a>
 
   <h2>AI Automation & Full-Stack Engineer | Microservices | Python, Laravel | n8n, Zapier, GHL, Scaling SME revenue through smart automation systems</h2>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sammad-the-dev//">
+    <a href="https://www.linkedin.com/in/sammad-the-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="samadyounas.surge.sh">
+    <a href="samadyounas.surge.sh" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:abdulsammad.idenbrid@gmail.com">
