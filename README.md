@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/sammad-the-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="samadyounas.surge.sh" target="_blank">
+    <a href="https://samadyounas.surge.sh" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:abdulsammad.idenbrid@gmail.com">
